@@ -2,3 +2,4 @@ Datu Baseak
 Markatzeko Lengoaiak
 Programazioa
 Informatika Sistemak
+Garapen Inguruneak
