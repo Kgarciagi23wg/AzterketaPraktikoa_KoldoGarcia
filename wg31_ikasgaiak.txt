@@ -3,3 +3,4 @@ Markatzeko Lengoaiak
 Programazioa
 Informatika Sistemak
 Garapen Inguruneak
+Ingeles Teknikoa
